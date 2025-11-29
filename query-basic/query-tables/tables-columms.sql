@@ -1,7 +1,6 @@
 ------------------------------------------------------------
 -- TABLES-COLUMNS.SQL
 -- Lista as colunas das principais tabelas do projeto
--- Estilo Matheus / BD1: consultas simples e diretas
 ------------------------------------------------------------
 
 ------------------------------------------------------------

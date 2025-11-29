@@ -1,6 +1,5 @@
 ------------------------------------------------------------
 -- INSERTS DA TABELA GENERO
--- Estilo BD1 / Matheus: simples, direto, sem PL/SQL
 -- Gera IDs usando SEQ_GENERO.NEXTVAL
 ------------------------------------------------------------
 

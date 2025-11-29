@@ -1,7 +1,6 @@
 ------------------------------------------------------------
 -- DROP-ALL-TABLES.SQL
 -- Remove todas as tabelas e sequências do projeto
--- Estilo MATHEUS / BD1: simples, direto, sem PL/SQL
 ------------------------------------------------------------
 
 ------------------------------------------------------------

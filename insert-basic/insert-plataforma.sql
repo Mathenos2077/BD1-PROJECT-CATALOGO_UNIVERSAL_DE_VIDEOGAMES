@@ -1,6 +1,5 @@
 ------------------------------------------------------------
 -- INSERTS DA TABELA PLATAFORMA
--- Estilo BD1 / Matheus: simples, direto, sem PL/SQL
 -- Gera IDs usando SEQ_PLATAFORMA.NEXTVAL
 ------------------------------------------------------------
 

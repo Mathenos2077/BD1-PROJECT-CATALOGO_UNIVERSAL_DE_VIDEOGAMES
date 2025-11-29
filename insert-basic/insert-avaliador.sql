@@ -1,6 +1,5 @@
 ------------------------------------------------------------
 -- INSERTS DA TABELA AVALIADOR
--- Estilo MATHEUS / BD1: simples, direto, sem PL/SQL
 ------------------------------------------------------------
 
 INSERT INTO AVALIDOR (

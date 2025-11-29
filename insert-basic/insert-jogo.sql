@@ -1,6 +1,5 @@
 ------------------------------------------------------------
 -- INSERTS DA TABELA JOGO
--- Estilo BD1 / Matheus: sem PL/SQL, simples e direto
 -- Usa SEQ_JOGO.NEXTVAL para gerar IDs
 ------------------------------------------------------------
 

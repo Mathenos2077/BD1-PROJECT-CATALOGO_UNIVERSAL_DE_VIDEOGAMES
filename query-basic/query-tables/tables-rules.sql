@@ -1,7 +1,6 @@
 ------------------------------------------------------------
 -- TABLES-RULES.SQL
 -- Lista todas as constraints (regras) das tabelas do projeto
--- Estilo Matheus / BD1: organizado, didático, SQL puro
 ------------------------------------------------------------
 
 ------------------------------------------------------------

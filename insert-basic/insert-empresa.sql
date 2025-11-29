@@ -1,6 +1,5 @@
 ------------------------------------------------------------
 -- INSERTS DA TABELA EMPRESA
--- Estilo BD1 / Matheus: simples, direto e sem PL/SQL
 -- Utiliza SEQ_EMPRESA.NEXTVAL para gerar PKs
 ------------------------------------------------------------
 

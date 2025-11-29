@@ -1,7 +1,6 @@
 ------------------------------------------------------------
 -- TABLES-NAMES.SQL
 -- Lista o nome das tabelas do projeto + informações básicas
--- Estilo Matheus / BD1: simples, direto, didático
 ------------------------------------------------------------
 
 ------------------------------------------------------------
