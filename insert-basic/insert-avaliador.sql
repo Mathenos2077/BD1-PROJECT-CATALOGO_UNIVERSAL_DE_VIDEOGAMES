@@ -1,17 +1,5 @@
-------------------------------------------------------------
--- INSERTS DA TABELA AVALIADOR
-------------------------------------------------------------
-
-INSERT INTO AVALIDOR (
-    AVALIDORID,
-    NOME,
-    TIPO,
-    EMAIL,
-    URL,
-    PAISORIGEM,
-    DESCRICAO
-) VALUES (
-    SEQ_AVALIADOR.NEXTVAL,
+INSERT INTO AVALIADOR (NOME,TIPO,EMAIL,URL,PAISORIGEM,DESCRICAO) 
+VALUES (
     'Mathenos2077',
     'Usuário',
     'mathenos2077@gmail.com',
@@ -20,16 +8,8 @@ INSERT INTO AVALIDOR (
     'Um amante de jogos com ótimo senso crítico para avaliar títulos.'
 );
 
-INSERT INTO AVALIADOR (
-    AVALIADORID,
-    NOME,
-    TIPO,
-    EMAIL,
-    URL,
-    PAISORIGEM,
-    DESCRICAO
-) VALUES (
-    SEQ_AVALIADOR.NEXTVAL,
+INSERT INTO AVALIADOR (NOME,TIPO,EMAIL,URL,PAISORIGEM,DESCRICAO) 
+VALUES (
     'IGN',
     'Crítica especializada',
     'contact@ign.com',
@@ -38,16 +18,8 @@ INSERT INTO AVALIADOR (
     'Equipe internacional famosa por análises e notas rígidas.'
 );
 
-INSERT INTO AVALIADOR (
-    AVALIADORID,
-    NOME,
-    TIPO,
-    EMAIL,
-    URL,
-    PAISORIGEM,
-    DESCRICAO
-) VALUES (
-    SEQ_AVALIADOR.NEXTVAL,
+INSERT INTO AVALIADOR (NOME,TIPO,EMAIL,URL,PAISORIGEM,DESCRICAO) 
+VALUES (
     'Gamespot',
     'Crítica especializada',
     'reviews@gamespot.com',
@@ -56,16 +28,8 @@ INSERT INTO AVALIADOR (
     'Portal especializado em notícias e análises técnicas.'
 );
 
-INSERT INTO AVALIADOR (
-    AVALIADORID,
-    NOME,
-    TIPO,
-    EMAIL,
-    URL,
-    PAISORIGEM,
-    DESCRICAO
-) VALUES (
-    SEQ_AVALIADOR.NEXTVAL,
+INSERT INTO AVALIADOR (NOME,TIPO,EMAIL,URL,PAISORIGEM,DESCRICAO) 
+VALUES (
     'Eurogamer',
     'Crítica especializada',
     'contact@eurogamer.net',
@@ -73,3 +37,5 @@ INSERT INTO AVALIADOR (
     'Reino Unido',
     'Portal europeu com reviews detalhados e foco técnico.'
 );
+
+COMMIT;
