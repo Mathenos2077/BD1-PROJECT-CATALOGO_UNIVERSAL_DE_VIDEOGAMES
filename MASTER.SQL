@@ -7,6 +7,7 @@ PROMPT ================================================
 PROMPT INICIANDO CONFIGURAÇÃO COMPLETA DO BANCO...
 PROMPT ================================================
 
+
 ------------------------------------------------------------
 -- 1) DROP DE TODAS AS TABELAS E SEQUENCES
 ------------------------------------------------------------
@@ -16,15 +17,15 @@ PROMPT >>> Todas as tabelas e sequences removidas.
 
 
 ------------------------------------------------------------
--- 2) CRIAÇÃO DE TODAS AS TABELAS + SEQUENCES
+-- 2) CRIAÇÃO DE TODAS AS TABELAS
 ------------------------------------------------------------
 @create-basic/create-tables.sql
 
-PROMPT >>> Todas as tabelas e sequences foram criadas.
+PROMPT >>> Todas as tabelas foram criadas.
 
 
 ------------------------------------------------------------
--- 3) INSERTS BÁSICOS
+-- 3) INSERTS BÁSICOS (ORDENS CORRETAS)
 ------------------------------------------------------------
 
 PROMPT >>> Inserindo dados iniciais...
@@ -42,7 +43,7 @@ PROMPT Gêneros inseridos.
 PROMPT Avaliadores inseridos.
 
 @insert-basic/insert-jogo.sql
-PROMPT Jogos, relacionamentos SUPORTA, DESENVOLVE e CATEGORIZA inseridos.
+PROMPT Jogos, SUPORTA, DESENVOLVE, CATEGORIZA e DLCs inseridos.
 
 @insert-basic/insert-conteudoadicional.sql
 PROMPT Conteúdos adicionais inseridos.
